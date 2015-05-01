@@ -1,0 +1,35 @@
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\bin\Debug\MyFirstWpf.exe.config
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\bin\Debug\MyFirstWpf.exe
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\bin\Debug\MyFirstWpf.pdb
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf_MarkupCompile.cache
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.g.resources
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.exe
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.pdb
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\bin\Debug\FsModule.exe
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\bin\Debug\FsModule.pdb
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\bin\Debug\FsModule.xml
+D:\Documents\Visual Studio 2012\Projects\MyFirstWpf\MyFirstWpf\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Desktop\HotelDataBase\MyFirstWpf\bin\Debug\MyFirstWpf.exe.config
+D:\Desktop\HotelDataBase\MyFirstWpf\obj\Debug\MyFirstWpf.exe
+D:\Desktop\HotelDataBase\MyFirstWpf\obj\Debug\MyFirstWpf.pdb
+D:\Desktop\HotelApp\MyFirstWpf\bin\Debug\MyFirstWpf.exe.config
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MyFirstWpf.exe
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MyFirstWpf.pdb
+D:\Desktop\HotelApp\MyFirstWpf\bin\Debug\MyFirstWpf.exe
+D:\Desktop\HotelApp\MyFirstWpf\bin\Debug\MyFirstWpf.pdb
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MainWindow.baml
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MainWindow.g.cs
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\App.g.cs
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MyFirstWpf_MarkupCompile.cache
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MyFirstWpf.g.resources
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MyFirstWpf.Properties.Resources.resources
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Desktop\HotelApp\MyFirstWpf\bin\Debug\AutoLot.mdf
+D:\Desktop\HotelApp\MyFirstWpf\bin\Debug\AutoLot_log.ldf
+D:\Desktop\HotelApp\MyFirstWpf\obj\Debug\MyFirstWpf_Content.g.cs

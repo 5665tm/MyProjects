@@ -1,0 +1,82 @@
+﻿<Window x:Class="NeuroAnd.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		Title="Демонстрация работы нейронной сети" Height="530" Width="555" ResizeMode="NoResize" Background="#FF2E2E2E" WindowStartupLocation="CenterScreen">
+	<Grid>
+		<Polygon
+			Points="268,120 288,120 278,138 268,120" Fill="Black"/>
+		<Polygon
+			Points="315,120 335,120 325,138 315,120" Fill="Black"/>
+		<Polygon
+			Points="268,190 288,190 278,172 268,190" Fill="Black"/>
+		<Polygon
+			Points="420,144 420,164 450,154 420,144" Fill="Black"/>
+		<Rectangle Fill="Black" HorizontalAlignment="Left" Height="3" Margin="323,152,0,0" Stroke="Black"
+			VerticalAlignment="Top" Width="108" />
+		<Rectangle Fill="Black" HorizontalAlignment="Left" Height="3" Margin="112,233,0,0" Stroke="Black"
+			VerticalAlignment="Top" Width="166" />
+		<Rectangle Fill="Black" HorizontalAlignment="Left" Height="3" Margin="112,69,0,0" Stroke="Black"
+			VerticalAlignment="Top" Width="166" />
+		<Rectangle Fill="Black" HorizontalAlignment="Left" Height="167" Margin="276,69,0,0" Stroke="Black"
+			VerticalAlignment="Top" Width="3" />
+		<Rectangle Fill="Black" HorizontalAlignment="Left" Height="79" Margin="323,63.567,0,0" Stroke="Black"
+			VerticalAlignment="Top" Width="3" />
+		<RichTextBox x:Name="OutRich" Margin="10,261,10,10" Background="#FF535353" BorderBrush="Black" FontFamily="Arial" IsReadOnly="True" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" />
+		<Label x:Name="lbX2" Content="0" HorizontalAlignment="Left" Margin="72,216,0,0" VerticalAlignment="Top" Width="40"
+			Height="40" BorderThickness="2"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FF3FD3F3" BorderBrush="Black"
+			FontFamily="Arial Black" FontSize="20" />
+		<Label x:Name="lbX1" Content="0" HorizontalAlignment="Left" Margin="72,50,0,0" VerticalAlignment="Top" Width="40"
+			Height="40" BorderThickness="2"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FF3FD3F3" BorderBrush="Black"
+			FontFamily="Arial Black" FontSize="20" />
+		<Label x:Name="lbOne" Content="1" HorizontalAlignment="Left" Margin="304,23.567,0,0" VerticalAlignment="Top" Width="40"
+			Height="40" BorderThickness="2"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FF3FD3F3" BorderBrush="Black"
+			FontFamily="Arial Black" FontSize="20" />
+		<Label x:Name="lbY" Content="Y = 0" HorizontalAlignment="Left" Margin="450,141,0,0" VerticalAlignment="Top" Width="61"
+			Height="26" BorderThickness="1"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FFDEFFE6"
+			BorderBrush="#FF9B9B9B" FontFamily="Arial" FontSize="15" />
+		<Label x:Name="lbW13" Content="W13 = 0.0" HorizontalAlignment="Left" Margin="140,56.94,0,0" VerticalAlignment="Top" Width="87"
+			Height="26" BorderThickness="1"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FFDEFFE6"
+			BorderBrush="#FF9B9B9B" FontFamily="Arial" FontSize="12" />
+		<Label x:Name="lbW23" Content="W23 = 0.0" HorizontalAlignment="Left" Margin="140,221.373,0,0" VerticalAlignment="Top" Width="87"
+			Height="26" BorderThickness="1"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FFDEFFE6"
+			BorderBrush="#FF9B9B9B" FontFamily="Arial" FontSize="12" />
+		<Label x:Name="lbW03" Content="W03 = 0.0" HorizontalAlignment="Left" Margin="304,72.94,0,0" VerticalAlignment="Top" Width="87"
+			Height="26" BorderThickness="1"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FFDEFFE6"
+			BorderBrush="#FF9B9B9B" FontFamily="Arial" FontSize="12" />
+		<Button x:Name="NextStepButton" Content="Следующий шаг" HorizontalAlignment="Left" Margin="411,10.43,0,0" VerticalAlignment="Top" Width="100" FontFamily="Arial" Click="NextStepButton_Click" />
+		<Label x:Name="lbNET3" Content="0" HorizontalAlignment="Left" Margin="266,135.39,0,0" VerticalAlignment="Top" Width="76"
+			Height="40" BorderThickness="2"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FF3FD3F3" BorderBrush="Black"
+			FontFamily="Arial Black" FontSize="20" />
+		<Label Content="Const = 1" HorizontalAlignment="Left" Margin="239,12.37,0,0" VerticalAlignment="Top" FontFamily="Arial" Foreground="#FFC5C5C5"/>
+		<Label Content="X1" HorizontalAlignment="Left" Margin="57,27,0,0" VerticalAlignment="Top" FontFamily="Arial" Foreground="#FFC5C5C5"/>
+		<Label Content="X2" HorizontalAlignment="Left" Margin="57,193,0,0" VerticalAlignment="Top" FontFamily="Arial" Foreground="#FFC5C5C5"/>
+		<Label Content="net3" HorizontalAlignment="Left" Margin="235,132,0,0" VerticalAlignment="Top" FontFamily="Arial" Foreground="#FFC5C5C5"/>
+		<Button x:Name="ResetButton" Content="Сброс" HorizontalAlignment="Left" Margin="411,35.43,0,0" VerticalAlignment="Top" Width="100" FontFamily="Arial" Click="ResetButton_Click" />
+		<Label x:Name="lbNET3Eq" Content="net3 = " HorizontalAlignment="Left" Margin="304,225.373,0,0" VerticalAlignment="Top" Width="207"
+			Height="26" BorderThickness="1"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FFDEFFE6"
+			BorderBrush="#FF9B9B9B" FontFamily="Arial" FontSize="12" />
+		<Label x:Name="lbN" Content="n =" HorizontalAlignment="Left" Margin="450,194.373,0,0" VerticalAlignment="Top" Width="61"
+			Height="26" BorderThickness="1"
+
+			VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FFDEFFE6"
+			BorderBrush="#FF9B9B9B" FontFamily="Arial" FontSize="12" />
+	</Grid>
+</Window>

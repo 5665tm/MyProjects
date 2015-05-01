@@ -1,0 +1,11 @@
+D:\Desktop\FIDSKY1\obj\x86\Debug\DDP.csprojResolveAssemblyReference.cache
+D:\Desktop\FIDSKY1\obj\x86\Debug\$safeprojectname$.Properties.Resources.resources
+D:\Desktop\FIDSKY1\obj\x86\Debug\DDP.csproj.GenerateResource.Cache
+D:\Desktop\FIDSKY1\bin\Debug\SkyProject.exe
+D:\Desktop\FIDSKY1\bin\Debug\SkyProject.pdb
+D:\Desktop\FIDSKY1\obj\x86\Debug\Form1.resources
+D:\Desktop\FIDSKY1\obj\x86\Debug\SkyProject.exe
+D:\Desktop\FIDSKY1\obj\x86\Debug\SkyProject.pdb
+D:\Desktop\FIDSKY1\bin\Debug\box.ico
+D:\Desktop\FIDSKY1\bin\Debug\Ionic.Zip.dll
+D:\Desktop\FIDSKY1\bin\Debug\Ionic.Zip.xml

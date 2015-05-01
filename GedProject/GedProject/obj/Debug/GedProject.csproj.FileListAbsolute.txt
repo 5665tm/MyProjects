@@ -1,0 +1,10 @@
+d:\documents\visual studio 2012\Projects\GedProject\GedProject\bin\Debug\GedProject.exe
+d:\documents\visual studio 2012\Projects\GedProject\GedProject\bin\Debug\GedProject.pdb
+d:\documents\visual studio 2012\Projects\GedProject\GedProject\obj\Debug\GedProject.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\GedProject\GedProject\obj\Debug\GedProject.exe
+d:\documents\visual studio 2012\Projects\GedProject\GedProject\obj\Debug\GedProject.pdb
+D:\Desktop\GedProject\GedProject\obj\Debug\GedProject.exe
+D:\Desktop\GedProject\GedProject\obj\Debug\GedProject.pdb
+D:\Desktop\GedProject\GedProject\bin\Debug\GedProject.exe
+D:\Desktop\GedProject\GedProject\bin\Debug\GedProject.pdb
+D:\Desktop\GedProject\GedProject\obj\Debug\GedProject.csprojResolveAssemblyReference.cache

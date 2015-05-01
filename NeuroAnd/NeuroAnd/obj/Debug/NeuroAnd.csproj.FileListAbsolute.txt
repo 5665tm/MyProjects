@@ -1,0 +1,14 @@
+D:\Desktop\NeuroAnd\NeuroAnd\bin\Debug\NeuroAnd.exe
+D:\Desktop\NeuroAnd\NeuroAnd\bin\Debug\NeuroAnd.pdb
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\MainWindow.baml
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\MainWindow.g.cs
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\App.g.cs
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd_MarkupCompile.cache
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd.g.resources
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd.Properties.Resources.resources
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd.csproj.GenerateResource.Cache
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd.exe
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd.pdb
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\NeuroAnd.csprojResolveAssemblyReference.cache
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\InputData.baml
+D:\Desktop\NeuroAnd\NeuroAnd\obj\Debug\InputData.g.cs

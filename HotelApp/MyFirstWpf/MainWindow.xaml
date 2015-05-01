@@ -1,0 +1,20 @@
+﻿<Window x:Class="MyFirstWpf.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		Title="Гостиница  - Управление" WindowState="Maximized" WindowStartupLocation="CenterScreen" Height="500" MinWidth="800" MinHeight="500" Width="800" Background="#FF060606">
+	<Grid Margin="0,0,2,0" Background="#FF2B2B2B">
+		<DataGrid x:Name="main_grid" Margin="225,20,0,0" AutoGenerateColumns="False" Foreground="#FF535353" BorderBrush="#FF93DBF5" Background="White" Cursor="" CanUserResizeRows="False" RowEditEnding="Rowing"/>
+		<Button x:Name="but_AccountingServices" Content="Учет услуг" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Click="but_AccountingServices_Click" Height="40" Background="#FFECE3C5" FontWeight="Bold" Margin="150,30,0,0"/>
+		<Button x:Name="but_Posts" Content="Должности" HorizontalAlignment="Left" Margin="150,70,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.667,0.45" Click="but_Posts_Click" Height="40" Background="#FFECE3C5" FontWeight="Bold"/>
+		<Button x:Name="but_Rooms" Content="Комнаты" HorizontalAlignment="Left" Margin="0,30,0,0" VerticalAlignment="Top" Width="75" Click="but_Rooms_Click" Height="40" Background="#FFECE3C5" FontWeight="Bold"/>
+		<Button x:Name="but_Services" Content="Услуги" HorizontalAlignment="Left" Margin="0,70,0,0" VerticalAlignment="Top" Width="75" Click="but_Services_Click" Height="40" Background="#FFECE3C5" FontWeight="Bold"/>
+		<Button x:Name="but_Session" Content="Сессии" HorizontalAlignment="Left" Margin="75,30,0,0" VerticalAlignment="Top" Width="75" Click="but_Session_Click" Height="40" Background="#FFECE3C5" FontWeight="Bold"/>
+		<Button x:Name="but_Workers" Content="Персонал" HorizontalAlignment="Left" Margin="75,70,0,0" VerticalAlignment="Top" Width="75" Click="but_Workers_Click" Height="40" Background="#FFECE3C5" FontWeight="Bold"/>
+		<Button x:Name="save" Content="Сохранить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="225" Click="save_Click" Height="30" Background="#FFECC5C5" FontWeight="Bold"/>
+		<Label x:Name="lab_info" Content=" База данных успешно загружена" Margin="225,0,0,0" FontSize="14" Padding="5,5,5,-5" Foreground="Black" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" RenderTransformOrigin="0,0" BorderThickness="1" BorderBrush="#FFBE7CF5" Background="White" Height="20" VerticalAlignment="Top"/>
+		<Button x:Name="but_search_id" Content="Поиск сессии по ID" HorizontalAlignment="Left" Margin="0,135,0,0" VerticalAlignment="Top" Width="225" Height="30" FontWeight="Bold" Background="#FFC5ECD7" BorderThickness="1" BorderBrush="#FF707070" Click="but_search_id_click"/>
+		<TextBox x:Name="textbox_searhid" HorizontalAlignment="Left" Height="20" Margin="0,115,0,0" TextWrapping="Wrap" Text="ID сессии для поиска" VerticalAlignment="Top" Width="225" VerticalContentAlignment="Center"/>
+		<Button x:Name="but_search_passport" Content="Поиск сессий по паспорту" HorizontalAlignment="Left" Margin="0,190,0,0" VerticalAlignment="Top" Width="225" Height="30" FontWeight="Bold" Background="#FFC5ECD7" BorderThickness="1" BorderBrush="#FF707070" Click="but_search_pass_click"/>
+		<TextBox x:Name="textbox_searchpass" HorizontalAlignment="Left" Height="20" Margin="0,170,0,0" TextWrapping="Wrap" Text="Номер паспорта для поиска" VerticalAlignment="Top" Width="225" VerticalContentAlignment="Center"/>
+	</Grid>
+</Window>

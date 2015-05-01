@@ -1,0 +1,5 @@
+d:\documents\visual studio 2013\Projects\WpfApplication2\Screenice\bin\Debug\Screenice.dll
+d:\documents\visual studio 2013\Projects\WpfApplication2\Screenice\bin\Debug\Screenice.pdb
+d:\documents\visual studio 2013\Projects\WpfApplication2\Screenice\obj\Debug\Screenice.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\WpfApplication2\Screenice\obj\Debug\Screenice.dll
+d:\documents\visual studio 2013\Projects\WpfApplication2\Screenice\obj\Debug\Screenice.pdb

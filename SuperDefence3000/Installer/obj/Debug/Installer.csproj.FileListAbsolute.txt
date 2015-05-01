@@ -1,0 +1,9 @@
+D:\Desktop\SuperDefence3000\Installer\bin\Debug\Installer.exe
+D:\Desktop\SuperDefence3000\Installer\bin\Debug\Installer.pdb
+D:\Desktop\SuperDefence3000\Installer\obj\Debug\Installer.csprojResolveAssemblyReference.cache
+D:\Desktop\SuperDefence3000\Installer\obj\Debug\Installer.Form1.resources
+D:\Desktop\SuperDefence3000\Installer\obj\Debug\Installer.Properties.Resources.resources
+D:\Desktop\SuperDefence3000\Installer\obj\Debug\Installer.csproj.GenerateResource.Cache
+D:\Desktop\SuperDefence3000\Installer\obj\Debug\Installer.exe
+D:\Desktop\SuperDefence3000\Installer\obj\Debug\Installer.pdb
+D:\Desktop\SuperDefence3000\Installer\bin\Debug\SuperDefence3000.exe

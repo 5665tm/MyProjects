@@ -1,0 +1,39 @@
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.exe.config
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.exe
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.pdb
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.g.resources
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.exe
+d:\documents\visual studio 2013\Projects\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.pdb
+D:\Desktop\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.exe.config
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.exe
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.pdb
+D:\Desktop\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.exe
+D:\Desktop\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.pdb
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.csprojResolveAssemblyReference.cache
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\MainWindow.baml
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\MainWindow.g.cs
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\App.g.cs
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000_MarkupCompile.cache
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.g.resources
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.Properties.Resources.resources
+D:\Desktop\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.csproj.GenerateResource.Cache
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.exe.config
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.exe
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.pdb
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.exe
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\bin\Debug\GraphProject1000.pdb
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.csprojResolveAssemblyReference.cache
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\MainWindow.baml
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\MainWindow.g.cs
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\App.g.cs
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000_MarkupCompile.cache
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.g.resources
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.Properties.Resources.resources
+D:\Desktop\Trash\GraphProject1000\GraphProject1000\obj\Debug\GraphProject1000.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+D:\Новая папка\С Sharp\Примеры\Числа на рус и анг языках\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\Новая папка\С Sharp\Примеры\Числа на рус и анг языках\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

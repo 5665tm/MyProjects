@@ -1,0 +1,5 @@
+D:\Desktop\AppForWorking\ServerCatsRule\bin\Debug\ServerCatsRule.exe.config
+D:\Desktop\AppForWorking\ServerCatsRule\bin\Debug\ServerCatsRule.exe
+D:\Desktop\AppForWorking\ServerCatsRule\bin\Debug\ServerCatsRule.pdb
+D:\Desktop\AppForWorking\ServerCatsRule\obj\Debug\ServerCatsRule.exe
+D:\Desktop\AppForWorking\ServerCatsRule\obj\Debug\ServerCatsRule.pdb

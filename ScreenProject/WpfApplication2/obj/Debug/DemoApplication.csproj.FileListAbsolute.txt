@@ -1,0 +1,18 @@
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Screenice.dll
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\Screenice.pdb
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+d:\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+D:\Desktop\ScreenProject\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Desktop\ScreenProject\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\Desktop\ScreenProject\WpfApplication2\obj\Debug\WpfApplication2.pdb

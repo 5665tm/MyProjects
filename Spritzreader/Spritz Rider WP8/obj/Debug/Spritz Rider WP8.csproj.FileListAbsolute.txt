@@ -1,0 +1,21 @@
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Assets\ApplicationIcon.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Spritz Rider WP8.dll
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Spritz Rider WP8.pdb
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\AppManifest.xaml
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Properties\WMAppManifest.xml
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Spritz_Rider_WP8_Debug_AnyCPU.xap
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\App.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\MainPage.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\Spritz Rider WP8.g.resources
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\Spritz_Rider_WP8.Resources.AppResources.resources
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\Spritz Rider WP8.csproj.GenerateResource.Cache
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\Spritz Rider WP8.dll
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\Spritz Rider WP8.pdb
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Debug\XapCacheFile.xml
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\TerminusRe33-Bold.ttf
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Debug\Resources\TerminusRe33-Bold.ttf

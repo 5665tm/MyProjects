@@ -1,0 +1,16 @@
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\bin\Debug\WF01.exe
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\bin\Debug\WF01.pdb
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\obj\Debug\WF01.csprojResolveAssemblyReference.cache
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\obj\Debug\WF01.Form1.resources
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\obj\Debug\WF01.Properties.Resources.resources
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\obj\Debug\WF01.csproj.GenerateResource.Cache
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\obj\Debug\WF01.exe
+C:\Users\BlaineTheMono\Desktop\WF01\WF01\obj\Debug\WF01.pdb
+D:\Desktop\Sorokin\WF01\WF01\obj\Debug\WF01.exe
+D:\Desktop\Sorokin\WF01\WF01\obj\Debug\WF01.pdb
+D:\Desktop\Sorokin\WF01\WF01\bin\Debug\WF01.exe
+D:\Desktop\Sorokin\WF01\WF01\bin\Debug\WF01.pdb
+D:\Desktop\Sorokin\WF01\WF01\obj\Debug\WF01.Form1.resources
+D:\Desktop\Sorokin\WF01\WF01\obj\Debug\WF01.Properties.Resources.resources
+D:\Desktop\Sorokin\WF01\WF01\obj\Debug\WF01.csproj.GenerateResource.Cache
+D:\Desktop\Sorokin\WF01\WF01\obj\Debug\WF01.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.dll
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\EntityFramework.xml
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\bin\Debug\ru\EntityFramework.resources.dll
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+d:\documents\visual studio 2013\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb

@@ -1,0 +1,9 @@
+﻿<Window x:Class="DrawLineCanvas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="600" KeyDown="Window_KeyDown">
+	<Grid Background="Black">
+		<Canvas x:Name="CnvDraw" Margin="10" Background="#FF666666" MouseMove="CnvDraw_MouseMove" />
+
+	</Grid>
+</Window>

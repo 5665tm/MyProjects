@@ -1,0 +1,12 @@
+d:\documents\visual studio 2013\Projects\lab\lab\bin\Debug\lab.exe
+d:\documents\visual studio 2013\Projects\lab\lab\bin\Debug\lab.pdb
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.exe
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.pdb
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.Main.resources
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.Input.resources
+d:\documents\visual studio 2013\Projects\lab\lab\obj\Debug\lab.Calc.resources
+D:\Desktop\Elena\lab\lab\obj\Debug\lab.exe
+D:\Desktop\Elena\lab\lab\obj\Debug\lab.pdb

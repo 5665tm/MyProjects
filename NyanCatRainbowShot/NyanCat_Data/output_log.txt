@@ -1,0 +1,21 @@
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.8.1075]
+    Renderer: Intel(R) Graphics Media Accelerator 3600 Series
+    Vendor:   Intel
+    VRAM:     761 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+FMOD failed to initialize ... A call to a standard soundcard driver failed, which could possibly mean a bug in the driver or resources were missing or exhausted. 
+ 
+(Filename:  Line: 177)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Nyan Cat Rainbow Shot\NyanCat_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Nyan Cat Rainbow Shot\NyanCat_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Nyan Cat Rainbow Shot\NyanCat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Nyan Cat Rainbow Shot\NyanCat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.320 seconds
+desktop: 1280x1024 60Hz; virtual: 2304x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

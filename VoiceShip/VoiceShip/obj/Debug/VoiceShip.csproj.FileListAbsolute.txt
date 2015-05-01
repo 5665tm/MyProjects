@@ -1,0 +1,16 @@
+D:\Desktop\VoiceShip\VoiceShip\bin\Debug\VoiceShip.exe
+D:\Desktop\VoiceShip\VoiceShip\bin\Debug\VoiceShip.pdb
+D:\Desktop\VoiceShip\VoiceShip\bin\Debug\MahApps.Metro.dll
+D:\Desktop\VoiceShip\VoiceShip\bin\Debug\System.Windows.Interactivity.dll
+D:\Desktop\VoiceShip\VoiceShip\bin\Debug\MahApps.Metro.xml
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip.csprojResolveAssemblyReference.cache
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\MainWindow.baml
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\App.baml
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\MainWindow.g.cs
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\App.g.cs
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip_MarkupCompile.cache
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip.g.resources
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip.Properties.Resources.resources
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip.csproj.GenerateResource.Cache
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip.exe
+D:\Desktop\VoiceShip\VoiceShip\obj\Debug\VoiceShip.pdb

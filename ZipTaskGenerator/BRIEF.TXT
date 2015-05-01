@@ -1,0 +1,33 @@
+1. Есть папка с cms
+2. есть файл с фрихами. Строки вида: URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+3. есть папка с текстовыми файлами №1
+4. есть папка с текстовыми файлами №2
+
+1) Нужно, чтобы Программа прописывала в папке cms в файле config.php 2 строки
+$url = "http://"; // Сюда можно прописать колонку номер 2 из файла с фрихами 
+$keys_file_name = "keys.txt"; // Сюда прописать имя файла взятое и скопированное из папки №1 в папку с cms
+2) Брала файл .*txt из папки #2 и копировала его в папку с cms
+Заархивировать папку с cms в zip с именем что мы прописали в $url
+
+=========================================
+
+Есть файл с фрихами такого формата:
+URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+URL;FTP HOST;FTP USERNAME;FTP PASSWORD;FTP REMOTE DIR
+
+ВОт шаблон UploadUnZip
+ftp://{3}:{4}@{2}/{5} http://{2}/ Х:\Папка куда сохранить\{2}1.zip
+
+При активном чекбоксе должны получить файл с
+
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip
+ftp://FTP USERNAME:FTP PASSWORD@FTP HOST/FTP REMOTE DIR http://FTP HOST/ Х:\Папка куда сохранить\FTP HOST.zip

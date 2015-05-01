@@ -1,0 +1,141 @@
+﻿<Window x:Class="GraphProject1000.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="shilen shilend" Height="425.2" Width="607.4" ResizeMode="NoResize" Closing="Window_Closing">
+	<Grid>
+		<Canvas x:Name="myCanvas" HorizontalAlignment="Left" Height="369" Margin="0,27,0,0" VerticalAlignment="Top" Width="600">
+			<Canvas.Background>
+				<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+					<GradientStop Color="#FFA1C4AA" Offset="0"/>
+					<GradientStop Color="#FF7686C2" Offset="1"/>
+				</LinearGradientBrush>
+			</Canvas.Background>
+			<Rectangle x:Name="RecFigure" Fill="Blue" Height="58" Width="58" Canvas.Top="110" Canvas.Left="401" RenderTransformOrigin="0.5,0.5">
+				<Rectangle.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="24.262"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Rectangle.RenderTransform>
+			</Rectangle>
+			<Rectangle x:Name="RecFigure2" Fill="Blue" Height="58" Width="58" Canvas.Top="110" Canvas.Left="-199" RenderTransformOrigin="0.5,0.5">
+				<Rectangle.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="24.262"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Rectangle.RenderTransform>
+			</Rectangle>
+			<Rectangle x:Name="RecFigure3" Fill="Blue" Height="58" Width="58" Canvas.Top="-259" Canvas.Left="401" RenderTransformOrigin="0.5,0.5">
+				<Rectangle.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="24.262"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Rectangle.RenderTransform>
+			</Rectangle>
+			<Rectangle x:Name="RecFigure4" Fill="Blue" Height="58" Width="58" Canvas.Top="-259" Canvas.Left="-199" RenderTransformOrigin="0.5,0.5">
+				<Rectangle.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="24.262"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Rectangle.RenderTransform>
+			</Rectangle>
+			<Polygon x:Name="PolyFigure" Fill="Green"  Points="0,0 60,25 60,100 0,0" Canvas.Left="350" Canvas.Top="221" RenderTransformOrigin="0.5,0.5" >
+				<Polygon.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="23.473"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Polygon.RenderTransform>
+			</Polygon>
+			<Polygon x:Name="PolyFigure2" Fill="Green"  Points="0,0 60,25 60,100 0,0" Canvas.Left="350" Canvas.Top="-148" RenderTransformOrigin="0.5,0.5" >
+				<Polygon.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="23.473"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Polygon.RenderTransform>
+			</Polygon>
+			<Polygon x:Name="PolyFigure3" Fill="Green"  Points="0,0 60,25 60,100 0,0" Canvas.Left="-250" Canvas.Top="221" RenderTransformOrigin="0.5,0.5" >
+				<Polygon.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="23.473"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Polygon.RenderTransform>
+			</Polygon>
+			<Polygon x:Name="PolyFigure4" Fill="Green"  Points="0,0 60,25 60,100 0,0" Canvas.Left="-250" Canvas.Top="-148" RenderTransformOrigin="0.5,0.5" >
+				<Polygon.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="23.473"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Polygon.RenderTransform>
+			</Polygon>
+			<Ellipse x:Name="EllipseFigure" Fill="Red" Height="117" Width="84" Canvas.Left="-106" Canvas.Top="-131" RenderTransformOrigin="0.5,0.5">
+				<Ellipse.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="21.169"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Ellipse.RenderTransform>
+			</Ellipse>
+			<Ellipse x:Name="EllipseFigure2" Fill="Red" Height="117" Width="84" Canvas.Left="-106" Canvas.Top="238" RenderTransformOrigin="0.5,0.5">
+				<Ellipse.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="21.169"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Ellipse.RenderTransform>
+			</Ellipse>
+			<Ellipse x:Name="EllipseFigure3" Fill="Red" Height="117" Width="84" Canvas.Left="494" Canvas.Top="-131" RenderTransformOrigin="0.5,0.5">
+				<Ellipse.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="21.169"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Ellipse.RenderTransform>
+			</Ellipse>
+			<Ellipse x:Name="EllipseFigure4" Fill="Red" Height="117" Width="84" Canvas.Left="488" Canvas.Top="240" RenderTransformOrigin="0.5,0.5">
+				<Ellipse.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform Angle="21.169"/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Ellipse.RenderTransform>
+			</Ellipse>
+		</Canvas>
+		<Button x:Name="btLeft" Content="←" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" FontSize="18" Click="btLeft_Click"/>
+		<Button x:Name="btUp" Content="↑" HorizontalAlignment="Left" Margin="300,0,0,0" VerticalAlignment="Top" Width="100" FontSize="18" Click="btUp_Click"/>
+		<Button x:Name="btDown" Content="↓" HorizontalAlignment="Left" Margin="200,0,0,0" VerticalAlignment="Top" Width="100" FontSize="18" Click="btDown_Click"/>
+		<Button x:Name="btRight" Content="→" HorizontalAlignment="Left" Margin="100,0,0,0" VerticalAlignment="Top" Width="100" FontSize="18" Click="btRight_Click"/>
+		<Button x:Name="btRotateL" Content="↺" HorizontalAlignment="Left" Margin="400,0,0,0" VerticalAlignment="Top" Width="100" FontSize="18" Click="btRotateL_Click"/>
+		<Button x:Name="btRotateR" Content="↻" HorizontalAlignment="Left" Margin="500,0,0,0" VerticalAlignment="Top" Width="100" FontSize="18" Click="btRotateR_Click"/>
+	</Grid>
+</Window>

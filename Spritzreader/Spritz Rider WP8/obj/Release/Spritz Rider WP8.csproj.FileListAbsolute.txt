@@ -1,0 +1,57 @@
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Assets\ApplicationIcon.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Spritz Rider WP8.dll
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Spritz Rider WP8.pdb
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\AppManifest.xaml
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Properties\WMAppManifest.xml
+D:\Desktop\Spritz Rider\Spritz Rider WP8\Bin\Release\Spritz_Rider_WP8_Release_AnyCPU.xap
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\App.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\MainPage.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\Spritz Rider WP8.g.resources
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\Spritz_Rider_WP8.Resources.AppResources.resources
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\Spritz Rider WP8.csproj.GenerateResource.Cache
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\Spritz Rider WP8.dll
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\Spritz Rider WP8.pdb
+D:\Desktop\Spritz Rider\Spritz Rider WP8\obj\Release\XapCacheFile.xml
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Assets\ApplicationIcon.png
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Spritz Rider WP8.dll
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Spritz Rider WP8.pdb
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\AppManifest.xaml
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Properties\WMAppManifest.xml
+D:\Desktop\spritzreader\Spritz Rider WP8\Bin\Release\Spritz_Rider_WP8_Release_AnyCPU.xap
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\App.g.cs
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\MainPage.g.cs
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.g.resources
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\Spritz_Rider_WP8.Resources.AppResources.resources
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.csproj.GenerateResource.Cache
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.dll
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.pdb
+D:\Desktop\spritzreader\Spritz Rider WP8\obj\Release\XapCacheFile.xml
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Assets\ApplicationIcon.png
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Spritz Rider WP8.dll
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Spritz Rider WP8.pdb
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\AppManifest.xaml
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Properties\WMAppManifest.xml
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\Bin\Release\Spritz_Rider_WP8_Release_AnyCPU.xap
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\App.g.cs
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\MainPage.g.cs
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.g.resources
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\Spritz_Rider_WP8.Resources.AppResources.resources
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.csproj.GenerateResource.Cache
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.dll
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\Spritz Rider WP8.pdb
+D:\Desktop\Trash\spritzreader\Spritz Rider WP8\obj\Release\XapCacheFile.xml

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDP", "DDP.csproj", "{570F8637-1DA1-4277-97B9-2466ED379A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570F8637-1DA1-4277-97B9-2466ED379A71}.Debug|x86.ActiveCfg = Debug|x86
+		{570F8637-1DA1-4277-97B9-2466ED379A71}.Debug|x86.Build.0 = Debug|x86
+		{570F8637-1DA1-4277-97B9-2466ED379A71}.Release|x86.ActiveCfg = Release|x86
+		{570F8637-1DA1-4277-97B9-2466ED379A71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

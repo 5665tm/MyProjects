@@ -1,0 +1,12 @@
+D:\Desktop\Spritz Rider\Spritz Rider\bin\Debug\Spritz Rider.exe.config
+D:\Desktop\Spritz Rider\Spritz Rider\bin\Debug\Spritz Rider.exe
+D:\Desktop\Spritz Rider\Spritz Rider\bin\Debug\Spritz Rider.pdb
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\MainWindow.baml
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\MainWindow.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\App.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\Spritz Rider_MarkupCompile.cache
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\Spritz Rider.g.resources
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\Spritz_Rider.Properties.Resources.resources
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\Spritz Rider.csproj.GenerateResource.Cache
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\Spritz Rider.exe
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Debug\Spritz Rider.pdb

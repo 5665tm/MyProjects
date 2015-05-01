@@ -1,0 +1,38 @@
+D:\Desktop\Spritz Rider\Spritz Rider\bin\Release\Spritz Rider.exe.config
+D:\Desktop\Spritz Rider\Spritz Rider\bin\Release\Spritz Rider.exe
+D:\Desktop\Spritz Rider\Spritz Rider\bin\Release\Spritz Rider.pdb
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\MainWindow.baml
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\MainWindow.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\App.g.cs
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\Spritz Rider_MarkupCompile.cache
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\Spritz Rider.g.resources
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\Spritz_Rider.Properties.Resources.resources
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\Spritz Rider.csproj.GenerateResource.Cache
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\Spritz Rider.exe
+D:\Desktop\Spritz Rider\Spritz Rider\obj\Release\Spritz Rider.pdb
+D:\Desktop\spritzreader\Spritz Rider\bin\Release\Spritz Rider.exe.config
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz Rider.exe
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz Rider.pdb
+D:\Desktop\spritzreader\Spritz Rider\bin\Release\Spritz Rider.exe
+D:\Desktop\spritzreader\Spritz Rider\bin\Release\Spritz Rider.pdb
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz Rider.csprojResolveAssemblyReference.cache
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\MainWindow.baml
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\MainWindow.g.cs
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\App.g.cs
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz Rider_MarkupCompile.cache
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz Rider.g.resources
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz_Rider.Properties.Resources.resources
+D:\Desktop\spritzreader\Spritz Rider\obj\Release\Spritz Rider.csproj.GenerateResource.Cache
+D:\Desktop\Trash\spritzreader\Spritz Rider\bin\Release\Spritz Rider.exe.config
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz Rider.exe
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz Rider.pdb
+D:\Desktop\Trash\spritzreader\Spritz Rider\bin\Release\Spritz Rider.exe
+D:\Desktop\Trash\spritzreader\Spritz Rider\bin\Release\Spritz Rider.pdb
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz Rider.csprojResolveAssemblyReference.cache
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\MainWindow.baml
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\MainWindow.g.cs
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\App.g.cs
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz Rider_MarkupCompile.cache
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz Rider.g.resources
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz_Rider.Properties.Resources.resources
+D:\Desktop\Trash\spritzreader\Spritz Rider\obj\Release\Spritz Rider.csproj.GenerateResource.Cache

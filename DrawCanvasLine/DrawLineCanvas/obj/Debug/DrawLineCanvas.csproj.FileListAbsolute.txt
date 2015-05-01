@@ -1,0 +1,12 @@
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\bin\Debug\DrawLineCanvas.exe
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\bin\Debug\DrawLineCanvas.pdb
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas.csprojResolveAssemblyReference.cache
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\MainWindow.baml
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\MainWindow.g.cs
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\App.g.cs
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas_MarkupCompile.cache
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas.g.resources
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas.Properties.Resources.resources
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas.csproj.GenerateResource.Cache
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas.exe
+D:\Desktop\DrawLineCanvas\DrawLineCanvas\obj\Debug\DrawLineCanvas.pdb

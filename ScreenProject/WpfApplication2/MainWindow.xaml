@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="898.186">
+	<Grid>
+		<Button x:Name="my_button" Content="Перегрузка 1 -  сохранение в C:\shot.jpg" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="870" Height="54" Click="my_button_Click"/>
+		<Button x:Name="my_button_2" Content="Перегрузка 2 - сохранение в указанную папку, имя файла извлекается из даты" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" Width="870" Height="54" Click="my_button_2_Click"/>
+		<Button x:Name="my_button_3" Content="Перегрузка 3 - сохранение в указанную папку, с указанным именем в указанном формате (Jpg, Png, Bmp)" HorizontalAlignment="Left" Margin="10,128,0,0" VerticalAlignment="Top" Width="870" Height="54" Click="my_button_3_Click"/>
+		<Label Content="Все методы имеют возвращаемое значение типа bool . True в случае удачного сохранения . false в случае возникновения ошибки" HorizontalAlignment="Left" Margin="10,216,0,0" VerticalAlignment="Top" Height="48" Width="870"/>
+
+	</Grid>
+</Window>

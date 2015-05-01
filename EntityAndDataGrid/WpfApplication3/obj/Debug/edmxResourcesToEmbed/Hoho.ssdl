@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище CarModel" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "Car.dbo.Brands" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Brands">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="BrandName" />
+      <PropertyRef Name="DateOfFoundation" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="BrandName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DateOfFoundation" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cars">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Brand" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Color" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cost" Type="money" Nullable="false" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "Car.dbo.Drivers" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Drivers">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="FirstName" />
+      <PropertyRef Name="LastName" />
+      <PropertyRef Name="CarsId" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CarsId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Хранилище CarModelContainer">
+    <EntitySet Name="Cars" EntityType="Self.Cars" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Brands" EntityType="Self.Brands" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Brands].[Id] AS [Id], 
+[Brands].[BrandName] AS [BrandName], 
+[Brands].[DateOfFoundation] AS [DateOfFoundation]
+FROM [dbo].[Brands] AS [Brands]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Drivers" EntityType="Self.Drivers" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Drivers].[Id] AS [Id], 
+[Drivers].[FirstName] AS [FirstName], 
+[Drivers].[LastName] AS [LastName], 
+[Drivers].[CarsId] AS [CarsId]
+FROM [dbo].[Drivers] AS [Drivers]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

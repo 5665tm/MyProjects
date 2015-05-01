@@ -1,0 +1,26 @@
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\bin\Debug\AppForWorking.exe.config
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\bin\Debug\AppForWorking.exe
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\bin\Debug\AppForWorking.pdb
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking.g.resources
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking.exe
+D:\Documents\Visual Studio 2013\Projects\AppForWorking\AppForWorking\obj\Debug\AppForWorking.pdb
+D:\Desktop\AppForWorking\AppForWorking\bin\Debug\AppForWorking.exe.config
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking.exe
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking.pdb
+D:\Desktop\AppForWorking\AppForWorking\bin\Debug\AppForWorking.exe
+D:\Desktop\AppForWorking\AppForWorking\bin\Debug\AppForWorking.pdb
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\MainWindow.baml
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\MainWindow.g.cs
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\App.g.cs
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking_MarkupCompile.cache
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking.g.resources
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking.Properties.Resources.resources
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking.csproj.GenerateResource.Cache
+D:\Desktop\AppForWorking\AppForWorking\obj\Debug\AppForWorking.csprojResolveAssemblyReference.cache

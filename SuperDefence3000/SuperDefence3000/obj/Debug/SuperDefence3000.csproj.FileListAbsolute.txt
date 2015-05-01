@@ -1,0 +1,17 @@
+D:\Desktop\SuperDefence3000\SuperDefence3000\bin\Debug\SuperDefence3000.exe
+D:\Desktop\SuperDefence3000\SuperDefence3000\bin\Debug\SuperDefence3000.pdb
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.csprojResolveAssemblyReference.cache
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.Properties.Resources.resources
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.csproj.GenerateResource.Cache
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.exe
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.pdb
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.Form1.resources
+F:\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.exe
+F:\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.pdb
+F:\SuperDefence3000\SuperDefence3000\bin\Debug\SuperDefence3000.exe
+F:\SuperDefence3000\SuperDefence3000\bin\Debug\SuperDefence3000.pdb
+F:\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.csprojResolveAssemblyReference.cache
+F:\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.Form1.resources
+F:\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.Properties.Resources.resources
+F:\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.csproj.GenerateResource.Cache
+D:\Desktop\SuperDefence3000\SuperDefence3000\obj\Debug\SuperDefence3000.Login.resources

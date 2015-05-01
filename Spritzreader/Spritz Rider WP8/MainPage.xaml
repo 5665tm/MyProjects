@@ -1,0 +1,73 @@
+﻿<!-- ReSharper disable InconsistentNaming -->
+<phone:PhoneApplicationPage
+    x:Class="Spritz_Rider_WP8.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    shell:SystemTray.IsVisible="True" BackKeyPress="Window_Closing">
+
+	<!--LayoutRoot представляет корневую сетку, где размещается все содержимое страницы-->
+	<Grid x:Name="LayoutRoot" Background="Transparent">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<!-- ПРИМЕЧАНИЕ О ЛОКАЛИЗАЦИИ:
+            Чтобы локализовать отображаемые строки, скопируйте их значения в соответствующим образом названные
+            ключи в файле ресурсов нейтрального языка приложения (AppResources.resx), а затем
+            замените жестко заданное текстовое значение между кавычками атрибутов
+            на выражение привязки, указывающее на имя соответствующей строки.
+
+            Пример:
+
+                Text="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}"
+
+            Данная привязка указывает на строковый ресурс шаблона с именем "ApplicationTitle".
+
+            Добавление поддерживаемых языков на вкладку "Свойства проекта" создает
+            новый RESX-файл для каждого языка, в котором могут храниться переведенные значения
+            строк пользовательского интерфейса. Привязка в этих примерах вызывает отрисовку
+            значений атрибутов из RESX-файла, соответствующего
+            CurrentUICulture приложения во время выполнения.
+         -->
+
+		<!--TitlePanel содержит имя приложения и заголовок страницы-->
+		<StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+			<TextBlock x:Name="lbFilename" Text="Портрет Дориана Грея" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
+		</StackPanel>
+
+		<!--ContentPanel — поместите здесь дополнительное содержимое-->
+		<Grid x:Name="ContentPanel" Grid.Row="1" Margin="0">
+			<Slider x:Name="slSpeed" Margin="0,0,0,32" Height="89" VerticalAlignment="Bottom" ValueChanged="slSpeed_ValueChanged"/>
+			<Slider x:Name="slReading" VerticalAlignment="Top" Height="89" Grid.ColumnSpan="2" ValueChanged="slReading_ValueChanged" ManipulationCompleted="slReading_LostFocus" ManipulationStarted="slReading_GotFocus"/>
+			<Border BorderBrush="{x:Null}" Margin="0,89,0,121" Tap="brdStartPause_Click">
+				<TextBlock x:Name="lbOut" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="50" FontFamily="/Fonts/TerminusRe33-Bold.ttf#Terminus Re33" Text="лорд Генри, не уходите!"/>
+			</Border>
+			<Button x:Name="btOpenFile" Content="Open" HorizontalAlignment="Left" Height="72" VerticalAlignment="Bottom" Width="107" Click="BtOpenFile_Click"/>
+			<CheckBox x:Name="chSpeedUp" Content="Speed Up" HorizontalAlignment="Left" Margin="107,0,0,0" Height="72" VerticalAlignment="Bottom" Width="166" Checked="chSpeedUp_Checked" Unchecked="chSpeedUp_Unchecked" IsChecked="True"/>
+			<TextBlock x:Name="lbRemTime" TextWrapping="Wrap" Text="Time Left: 21h 16m" Height="36" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="234" TextAlignment="Right" Margin="0,0,130,0" Padding="0"/>
+			<TextBlock x:Name="lbReadingPercent" TextWrapping="Wrap" Text="56%" Height="72" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="130" TextAlignment="Right" Padding="0,0,20,0" FontSize="48"/>
+			<TextBlock x:Name="lbSpeed" TextWrapping="Wrap" Text="Speed: 200 WPM" Height="36" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="234" TextAlignment="Right" Margin="0,0,130,36" Padding="0"/>
+
+		</Grid>
+
+		<!--Раскомментируйте, чтобы увидеть сетку выравнивания и выровнять
+            элементы управления по общим границам.  Верхнее поле изображения равно -32 пикселя, чтобы
+            осталось место для области уведомлений. Установите его равным 0 (или вообще удалите поле),
+            если область уведомлений скрыта.
+
+            Перед сдачей приложения удалите этот код XAML и само изображение.-->
+		<!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+	</Grid>
+
+</phone:PhoneApplicationPage>
+<!-- ReSharper restore InconsistentNaming -->

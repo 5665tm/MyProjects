@@ -1,0 +1,14 @@
+D:\Desktop\VkApiDemo\VkApiDemo\bin\Debug\VkApiDemo.exe
+D:\Desktop\VkApiDemo\VkApiDemo\bin\Debug\VkApiDemo.pdb
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo.csprojResolveAssemblyReference.cache
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\MainWindow.baml
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\MainWindow.g.cs
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\App.g.cs
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo_MarkupCompile.cache
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo.g.resources
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo.Properties.Resources.resources
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo.csproj.GenerateResource.Cache
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo.exe
+D:\Desktop\VkApiDemo\VkApiDemo\obj\Debug\VkApiDemo.pdb
+D:\Desktop\VkApiDemo\VkApiDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\VkApiDemo\VkApiDemo\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,8 @@
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\obj\Debug\YarrowAlgorithm.csprojResolveAssemblyReference.cache
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\obj\Debug\YarrowAlgorithm.Form1.resources
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\obj\Debug\YarrowAlgorithm.Properties.Resources.resources
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\obj\Debug\YarrowAlgorithm.csproj.GenerateResource.Cache
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\bin\Debug\YarrowAlgorithm.exe
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\bin\Debug\YarrowAlgorithm.pdb
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\obj\Debug\YarrowAlgorithm.exe
+D:\Desktop\YarrowAlgorithm\YarrowAlgorithm\obj\Debug\YarrowAlgorithm.pdb

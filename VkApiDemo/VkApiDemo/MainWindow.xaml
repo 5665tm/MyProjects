@@ -1,0 +1,14 @@
+﻿<Window x:Class="VkApiDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" ResizeMode="NoResize">
+	<Grid>
+		<Button Content="1 - Open Autorization Page" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" Click="Autorize_Click"/>
+		<Button x:Name="DemoSetStatus" Content="Extras - Demo Set Status" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Width="497" Click="SetStatus_Click" IsEnabled="False"/>
+		<TextBox x:Name="AddresLine" HorizontalAlignment="Left" Height="23" Margin="188,38,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="319" IsEnabled="False" TextChanged="AddresLine_TextChanged"/>
+		<Label x:Name="AddressLabel" Content="2 - Paste text from address bar" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="178" IsEnabled="False"/>
+		<Button x:Name="ClickMe" Content="3 - Click Me for sort audio!" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="497" IsEnabled="False" Click="ClickMe_Click"/>
+		<ProgressBar x:Name="Progress" HorizontalAlignment="Left" Height="18" Margin="10,100,0,0" VerticalAlignment="Top" Width="497"/>
+
+	</Grid>
+</Window>
